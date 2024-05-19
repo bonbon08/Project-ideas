@@ -5,6 +5,8 @@
 - [x] own simple game
 - [x] own simple random library
 - [x] hello world in Nasm-asm
+- [x] own picture format
+- [x] own file compression format
 ## Current projects
 - [ ] own operating system
 - [ ] a own grafic library
@@ -18,7 +20,6 @@
 - writing a chatbot
 - creating a chatprogramm
 - building a browser
-- own file format
 - custom firmware for some elektornics
 - create an own gameengine
  
